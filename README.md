@@ -32,7 +32,9 @@ Technologies:
 
 
 # Insights & Recommendations:
-![Sales Dashboard](images/dashboard.png)
+![Sales Dashboard](https://github.com/Aahil-Hussain/5G-Sales-Insights/blob/main/5G%20Sales%20Insights-1.png)
+![Sales Dashboard](https://github.com/Aahil-Hussain/5G-Sales-Insights/blob/main/5G%20Sales%20Insights-2.png)
+![Sales Dashboard](https://github.com/Aahil-Hussain/5G-Sales-Insights/blob/main/5G%20Sales%20Insights-3.png)
 
 * Cost Management: Identify and terminate inactive users (60+ days) to reduce unnecessary costs. KPI: Inactive users increased by 8.5% post-launch.
 * Retention Focus: Based on churn data, improve customer service and offer more flexible plans in high-churn cities like Delhi, Chennai, Hyderabad, and Pune.
