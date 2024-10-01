@@ -32,14 +32,11 @@ Technologies:
 
 
 # Insights & Recommendations:
-The analysis revealed that while overall revenue initially dipped post-launch, certain regions like Delhi and Chennai exhibited promising growth in active users.
-Customers expressed a preference for plans offering daily data usage over bundle packs.
-Strategies like targeted customer retention campaigns, plan adjustments, and enhanced customer service were recommended to improve post-launch engagement and reduce churn.
-This Power BI report provides data-driven insights comparing key metrics before and after 5G implementation:
 
-** Cost Management: Identify and terminate inactive users (60+ days) to reduce unnecessary costs. KPI: Inactive users increased by 8.5% post-launch.
-** Retention Focus: Based on churn data, improve customer service and offer more flexible plans in high-churn cities like Delhi, Chennai, Hyderabad, and Pune.
-** Plan Preferences: Analysis shows customers favor high-validity, per-day data plans. KPI: Plan P7 saw a 7.4% drop in user satisfaction.
-** Revenue Trends: Plan revenue is better post 5G, however the overall revenue has not seen significant change except the month of June. This could be due to the cost of operating 5G      connections, installations, maintaining services, etc.
-**Competitive Strategy: Find new ways to advertise and promote 5G to compete the market share with competitors. BRITEL is the closest competitor and AtliQo should consider to build strategies accordingly.
-
+* Cost Management: Identify and terminate inactive users (60+ days) to reduce unnecessary costs. KPI: Inactive users increased by 8.5% post-launch.
+* Retention Focus: Based on churn data, improve customer service and offer more flexible plans in high-churn cities like Delhi, Chennai, Hyderabad, and Pune.
+* Plan Preferences: Analysis shows customers favor high-validity, per-day data plans. KPI: Plan P7 saw a 7.4% drop in user satisfaction.
+* Revenue Trends: Plan revenue is better post 5G, however the overall revenue has not seen significant change except the month of June. This could be due to the cost of operating 5G connections, installations, maintaining services, etc.
+* The analysis revealed that while overall revenue initially dipped post-launch, certain regions like Delhi and Chennai exhibited promising growth in active users.
+* Customers expressed a preference for plans offering daily data usage over bundle packs.
+* Strategies like targeted customer retention campaigns, plan adjustments, and enhanced customer service were recommended to improve post-launch engagement and reduce churn.
