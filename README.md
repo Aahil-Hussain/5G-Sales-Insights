@@ -10,8 +10,8 @@ AtliQo, a leading telecom provider in India, launched its 5G services in May 202
 The AtliQo data team provided clean, structured data ready for analysis. The key steps involved in this project were:
 
 * Data Modeling:
-
 Built a robust data model in Power BI, ensuring the relationships between key data tables (users, revenue, and service plans) were well-defined for accurate reporting.
+
 * KPI Development:
 
 Developed critical KPIs such as active user count, revenue growth, churn rates, and customer engagement metrics to measure the performance pre- and post-5G launch.
