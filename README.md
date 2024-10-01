@@ -1,5 +1,8 @@
 # 5G-Sales-Insights
 
+# This project was quite old and was a part of Code Basics Resume Challegne #3.
+
+
 # Objective:
 AtliQo, a leading telecom provider in India, launched its 5G services in May 2022. However, the company observed a significant decline in both active users and revenue growth after the rollout. The business director tasked the analytics team with conducting a comparative analysis of key performance indicators (KPIs) before and after the 5G launch. The primary goal of the analysis is to provide actionable insights to enhance user retention, optimize internet plans, and drive future business strategies.
 
