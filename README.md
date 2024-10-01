@@ -13,23 +13,33 @@ The AtliQo data team provided clean, structured data ready for analysis. The key
 Built a robust data model in Power BI, ensuring the relationships between key data tables (users, revenue, and service plans) were well-defined for accurate reporting.
 
 * KPI Development:
-
 Developed critical KPIs such as active user count, revenue growth, churn rates, and customer engagement metrics to measure the performance pre- and post-5G launch.
+
 * Metrics and Measures:
-
 Created essential measures, including Month-over-Month (MoM) revenue trends, variance analysis for active users, and comparative metrics for customer retention by region and plan type.
+
 * Visualizations:
-
 Designed interactive dashboards using Power BI to visualize key trends. These dashboards showcase revenue performance, user churn, and plan preference before and after the 5G rollout, along with detailed variance analyses for actionable insights.
-* Insights & Recommendations:
 
+# Key Power BI Features Used:
+* Data Modeling: Built relationships between tables for streamlined analysis.
+* DAX Measures: Created custom calculations for MoM variance, total active users, revenue growth, and churn rate.
+* Interactive Visuals: Line charts, bar charts, and tables with dynamic filters to explore various dimensions such as time, region, and plan type.
+* KPI Dashboards: Visual representation of revenue, churn rate, and other vital metrics.
+Technologies:
+* Power BI: Data modeling, DAX for custom measures, interactive visuals, and dashboard creation.
+
+
+
+# Insights & Recommendations:
 The analysis revealed that while overall revenue initially dipped post-launch, certain regions like Delhi and Chennai exhibited promising growth in active users.
 Customers expressed a preference for plans offering daily data usage over bundle packs.
 Strategies like targeted customer retention campaigns, plan adjustments, and enhanced customer service were recommended to improve post-launch engagement and reduce churn.
-* Key Power BI Features Used:
-** Data Modeling: Built relationships between tables for streamlined analysis.
-* DAX Measures: Created custom calculations for MoM variance, total active users, revenue growth, and churn rate.
-* Interactive Visuals: Line charts, bar charts, and tables with dynamic filters to explore various dimensions such as time, region, and plan type.
-* KPI Dashboards: Visual representation of revenue, user retention, and other vital metrics.
-Technologies:
-* Power BI: Data modeling, DAX for custom measures, interactive visuals, and dashboard creation.
+This Power BI report provides data-driven insights comparing key metrics before and after 5G implementation:
+
+** Cost Management: Identify and terminate inactive users (60+ days) to reduce unnecessary costs. KPI: Inactive users increased by 8.5% post-launch.
+** Retention Focus: Based on churn data, improve customer service and offer more flexible plans in high-churn cities like Delhi, Chennai, Hyderabad, and Pune.
+** Plan Preferences: Analysis shows customers favor high-validity, per-day data plans. KPI: Plan P7 saw a 7.4% drop in user satisfaction.
+** Revenue Trends: Plan revenue is better post 5G, however the overall revenue has not seen significant change except the month of June. This could be due to the cost of operating 5G      connections, installations, maintaining services, etc.
+**Competitive Strategy: Find new ways to advertise and promote 5G to compete the market share with competitors. BRITEL is the closest competitor and AtliQo should consider to build strategies accordingly.
+
