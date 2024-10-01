@@ -32,6 +32,7 @@ Technologies:
 
 
 # Insights & Recommendations:
+![Sales Dashboard](images/dashboard.png)
 
 * Cost Management: Identify and terminate inactive users (60+ days) to reduce unnecessary costs. KPI: Inactive users increased by 8.5% post-launch.
 * Retention Focus: Based on churn data, improve customer service and offer more flexible plans in high-churn cities like Delhi, Chennai, Hyderabad, and Pune.
