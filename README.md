@@ -1,6 +1,6 @@
 # 5G-Sales-Insights
 
-This project was quite old and was a part of Code Basics Resume Challegne 3.
+This project was quite old and was a part of Code Basics Resume Challenge 3.
 
 
 # Objective:
